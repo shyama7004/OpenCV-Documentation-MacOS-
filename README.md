@@ -134,4 +134,4 @@ Welcome to a user-friendly documentation for OpenCV .This repository is a collec
 6. **BRIEF (Binary Robust Independent Elementary Features)**: [My Docs](https://github.com/shyama7004/OpenCV-Personal-Documentation/blob/main/Main-Concepts/BRIEF.md) | [OpenCV Docs](https://docs.opencv.org/4.x/dc/d7d/tutorial_py_brief.html)
 7. **ORB (Oriented FAST and Rotated BRIEF)**: [My Docs](<https://github.com/shyama7004/OpenCV-Personal-Documentation/blob/main/Main-Concepts/ORB%20(Oriented%20FAST%20and%20Rotated%20BRIEF).md>) | [OpenCV Docs](https://docs.opencv.org/4.x/d1/d89/tutorial_py_orb.html)
 
-> Thanks for reading, I hope you enjoyed it. May the code be with you.
+> Thanks for reading, I hope you enjoyed it. May the code be with you. 
